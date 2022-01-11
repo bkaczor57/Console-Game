@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zGUg0B3Jl+tSsnB2TptnStRbYdPTGBxNZ/l4Bi+UtHffSgXK3TSo9mN1+dBZBUUTUhSqhy7e2/BAepJMdg+qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bkacz\\source\\repos\\LegendaryHero\\LegendaryHero\\LegendaryHero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bkacz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
